@@ -1,4 +1,4 @@
-# Elektro Müller – Mobile-First Business Website
+# Handwerker Website – Mobile-First Business Website
 
 A realistic, mobile-first business website built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
