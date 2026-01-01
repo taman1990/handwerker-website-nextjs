@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import { Header } from "./(site)/components/Header";
 import { Footer } from "./(site)/components/Footer";
 import { Geist, Geist_Mono } from "next/font/google";
