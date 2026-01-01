@@ -46,7 +46,7 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Legal */}
+          {/* Legal & Project */}
           <div>
             <p className="mb-2 text-[13px] font-semibold text-text-main">
               Rechtliches
@@ -67,6 +67,16 @@ export function Footer() {
                 >
                   Datenschutz
                 </Link>
+              </li>
+              <li>
+                <a
+                  href="https://github.com/taman1990/handwerker-website-nextjs"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block py-1 hover:text-text-main"
+                >
+                  GitHub Repository
+                </a>
               </li>
             </ul>
           </div>
