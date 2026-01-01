@@ -9,6 +9,12 @@ This project focuses on how real small-business websites in Germany are structur
 
 ---
 
+## 🔗 Live Demo
+
+👉 https://handwerker-website-nextjs.vercel.app/
+
+---
+
 ## Project Focus
 
 - Mobile-first usability
