@@ -1,12 +1,6 @@
-# Handwerker Website – Mobile-First Business Website
-
-A realistic, mobile-first business website built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
-
-Designed to reflect a real German small-business site with focus on:
-- mobile usability
-- clean layout hierarchy
-- trust & credibility
-- accessibility basics
+# Handwerker Website (Next.js) – Mobile-First Business Website
+A realistic, mobile-first website for a German local service business.
+Built with Next.js, TypeScript, and Tailwind CSS (v4).
 
 ## Features
 - Mobile-first responsive design
